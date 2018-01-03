@@ -1,0 +1,23 @@
+.design-checkbox {
+    margin-bottom: 20px;
+    width: '50%';
+    text-align: center
+}
+
+.design-checkbox:last-of-type {
+    margin-bottom: 0;
+    width: '50%';
+    text-align: center
+}
+
+.design .title {
+    margin-top: 0;
+    padding-top: 0;
+    width: '90%';
+    text-align: center
+}
+
+.design {
+    width: '90%';
+    text-align: center
+}
