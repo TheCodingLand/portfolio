@@ -1,5 +1,6 @@
 {
     "name": "personal-portfolio",
+    "homepage":"https://porfolio.julien.tech",
     "version": "1.0.0",
     "private": true,
     "dependencies": {
