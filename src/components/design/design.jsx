@@ -13,12 +13,12 @@ class DesignComponent extends Component {
             <p className="headline">User Experience and Design</p>
             <div style={{display: 'flex', justifyContent: 'center' }}>
             <p className="text-justify" style = {{ width:"50%"}}>
-              I'm training myself to become a better designer.
+              Every project brings design experimentations.
               
               I've build this tool to enhance the workflow of my co-workers.
               it's integrated into a phone central system,
-              and automatically fetches names and addresses from an external website.
-              This is very much a W-I-P.
+              and automatically fetches names and addresses from an external website, and linked with a ticketing system API that I have also created.
+              
               </p>
             </div>
               <p><img src="callmanager.gif" style = {{width:"80%"}}/></p>

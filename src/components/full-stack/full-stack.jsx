@@ -12,15 +12,19 @@ class FullStackComponent extends Component {
 
 <div className="text-center dark-voice">
             
-            <b className="dark-voice-tag">&#x3C;Docker-Compose&#x3E; </b>
+            <b className="dark-voice-tag">&#x3C;Docker&#x3E; </b>
             <p><img src="docker.gif" style = {{width:"80%"}}/></p>
             
 
-            <p className="headline2">This is a dockerfile running services in production.</p>
+            <p className="headline2">I started experimenting with docker, with a very bad use case.</p>
+            <p className="headline2">This is how you learn.</p>
+            <p className="headline2">This specific project is very well designed however.</p>
+
             <p className="headline2">I've build this to train myself in designing microservices</p>
 
             <p className="headline2">I have also coded several services to make them work together in python (flask, django) </p>
-            <p className="headline2">and javascript (node.js)</p>
+            <p className="headline2">and using javascript (node.js)</p>
+            <p className="headline2">A client frontend was build in react. Just like this portfolio</p>
 
             <div style={{ backgroundColor: "#eee"}}>
 

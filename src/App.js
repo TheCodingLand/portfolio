@@ -4,7 +4,6 @@ import 'roboto-npm-webfont';
 import './App.css';
 
 import ProgressComponent from './components/progress/progress';
-import BrowserDetectComponent from './components/browser-detect/browser-detect';
 import HeaderComponent from './components/header/header';
 import FullStackComponent from './components/full-stack/full-stack';
 import IntroductionComponent from './components/introduction/introduction';

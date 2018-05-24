@@ -42,6 +42,11 @@ class HeaderComponent extends Component {
             <div className="header">
                 <h3>Julien Le Bourg</h3>
                 <h6>Experienced Technology Enthusiast</h6>
+                <h6>IT Admin</h6>
+                <h6>Space Geek</h6>
+                <h6>Artificial Intelligence power user</h6>
+                <h6>DevOps Engineer</h6>
+                <h6>Web designer</h6>
             </div>
             <div className="trend"> <TrendComponent></TrendComponent></div>
             <div className="scroll-down-btn">
@@ -58,3 +63,4 @@ class HeaderComponent extends Component {
 }
 
 export default HeaderComponent;
+
